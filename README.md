@@ -31,9 +31,9 @@ Quick prototyping.
 - SPI chip select connected to any available GPIO by putting a simple solder bridge
 
 ## Technical details:
-EagleCAD PCB files, datasheets and more on Github
-2.0”x0.9”x0.28” (51mmx23mmx8mm)
+EagleCAD PCB files, datasheets and more on Github    
+Dimensions 2.0”x0.9”x0.28” (51mmx23mmx8mm)
 
-Check out our tutorial for all sorts of details including pinouts, antennas, libraries and example applications.
+[Check out our tutorial for all sorts of details including pinouts, antennas, libraries and example applications.](https://learn.circuit.rocks/circuitrocks-sensowing)
 
 
