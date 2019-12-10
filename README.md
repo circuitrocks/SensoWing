@@ -34,6 +34,6 @@ Quick prototyping.
 EagleCAD PCB files, datasheets and more on Github    
 Dimensions 2.0”x0.9”x0.28” (51mmx23mmx8mm)
 
-[Check out our tutorial for all sorts of details including pinouts, antennas, libraries and example applications.](https://learn.circuit.rocks/circuitrocks-sensowing)
+[Check out our tutorial for pinouts and some tips how to use the SensoWing.](https://learn.circuit.rocks/circuitrocks-sensowing)
 
 
