@@ -1,0 +1,6 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"#1_SEEED_LINK";"#1_SEEED_SKU";"#2_SEEED_LINK";"AVAILABILITY";"DESCRIPTION";"MF";"MP";"MPN";"PACKAGE";"POPULARITY";"PRICE";"VALUE";
+"7";"";"SJ";"SJ";"A, B, C, D, E, F, G";"SMD solder JUMPER";"";"";"";"";"";"";"";"";"";"33";"";"";
+"1";"6p-2.54";"DIP-BLACK-MALE-HEADER(6P-2.54)";"H6-2.54";"SPI";"320020078";"https://www.seeedstudio.com/opl.html";"320020078";"";"";"";"";"";"P125-1106A1BS116A1";"";"";"";"6p-2.54";
+"1";"FEATHERWING";"FEATHERWING";"FEATHERWING";"MS2";"";"";"";"";"";"";"";"";"";"";"";"";"";
+"3";"H4P-SMD-2.0";"GROVE-CONNECTOR-SMD(4+2P-2.0)";"HW4-SMD-2.0";"ANALOG, I2C, SERIAL";"320110030";"";"320110030";"https://www.seeedstudio.com/opl.html";"";"";"";"";"";"";"";"";"H4P-SMD-2.0";
+"1";"SM04B-SRSS-TB(LF)(SN)";"SM04B-SRSS-TB(LF)(SN)";"JST_SM04B-SRSS-TB(LF)(SN)";"QWIIC";"SH Series 1.0 mm Pitch 2 Position Single Row Side Entry Shrouded Header";"";"JST SM04B-SRSS-TB_LF_SN";"https://order.jst-mfg.com/InternetShop/app/index.php?back=2&product=67585401&jgcd=0#showProductDetail";"Unavailable";" SH Series 1.0 mm Pitch 2 Position Single Row Side Entry Shrouded Header ";"JST Sales";"SM04B-SRSS-TB_LF__SN_";"";"None";"";"None";"";
